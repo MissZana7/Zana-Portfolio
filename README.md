@@ -31,7 +31,7 @@ Welcome to my programming portfolio! I am a Computer Programming student focused
 ### Programming Capstone
 Comprehensive final project demonstrating software development, problem solving, and programming concepts learned throughout the degree program.
 
-**Technologies Used:** *(Add technologies here)*
+**Technologies Used:** C#, ASP.NET Core, SQL Server, HTML, CSS, EJS, JSON, Git, GitHub
 
 **Skills Demonstrated:**
 - Software development lifecycle
